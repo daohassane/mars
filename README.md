@@ -1,2 +1,2 @@
-# mars-framework
+# Mars Framework
 Micro PHP Framework
