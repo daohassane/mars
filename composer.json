@@ -1,5 +1,5 @@
 {
-    "name": "mars/mars-framework",
+    "name": "mars/mars",
     "description": "PHP Micro Framework",
     "keywords": ["framework", "mars", "mars framework", "micro framework"],
     "type": "project",
