@@ -1,6 +1,6 @@
 {
-    "name": "mars/mars-framework",
-    "description": "PHP Micro Framework",
+    "name": "mars/mars",
+    "description": "Mars Framework",
     "keywords": ["framework", "mars", "mars framework", "micro framework"],
     "type": "project",
     "license": "MIT",
