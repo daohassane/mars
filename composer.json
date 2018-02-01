@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.0.0",
-        "mars/mars": "0.1.*-dev"
+        "mars/framework": "0.1.*-dev"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
