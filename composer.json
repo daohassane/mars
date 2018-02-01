@@ -1,9 +1,13 @@
 {
     "name": "mars/mars",
     "description": "Mars Framework",
-    "keywords": ["framework", "mars", "mars framework", "micro framework"],
+    "keywords": ["framework", "mars"],
     "type": "project",
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/marsphp/mars/issues",
+        "source": "https://github.com/marsphp/mars"
+    },
     "require": {
         "php": ">=7.0.0",
         "mars/framework": "dev-master"
