@@ -2,3 +2,4 @@
 .vscode
 package-lock.json
 /vendor/
+.DS_STore
