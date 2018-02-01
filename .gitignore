@@ -3,3 +3,4 @@
 package-lock.json
 /vendor/
 .DS_STore
+/composer.lock
